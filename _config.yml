@@ -23,18 +23,18 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "terry-avatar-small.png"
+  avatar           : "favicon-512x512.png"
   name             : "Terry"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Senior Lecturer (Associate Professor), School of Computer Science and Informatics, University of Liverpool"
   location         : "Liverpool, UK"
-  employer         : "University of Liverpool"
+  employer         : "Uni. Liverpool"
   uri              : "https://www.liverpool.ac.uk/people/terry-payne"
   email            : "T.R.Payne@liverpool.ac.uk" 
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "https://arxiv.org/a/0000-0002-0106-8731.html" # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=MrkZ_v0AAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
