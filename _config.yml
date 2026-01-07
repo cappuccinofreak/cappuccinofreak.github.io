@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : TerryAvatar.png
+  avatar           : "bpeng.png"
   name             : "Terry - new"
   pronouns         : # example: "she/her"  
   bio              : "Senior Lecturer (Associate Professor), School of Computer Science and Informatics, University of Liverpool"
