@@ -2,9 +2,6 @@
 permalink: /research/
 title: "Research - Overview"
 author_profile: true
-redirect_from: 
-  - /research/
-  - /research.html
 ---
 My research focus is on the use of knowledge by agents to support service discovery, provision and use.  Much of my earlier work in this area included the development of the OWL-S ontologies with the other members of the OWL-S coalition, as well as the use of the OWL-S profile for service discovery.  More recently, my focus has been on the notion of Agent capabilities as services; how they are described, how they are provisioned and how they could affect agent self-organization based on perceived community demand for services or based on coalition formation.  I’ve also explored the use of service discovery and data harmonisation for Semantic Web Services within Grid environments.
 
