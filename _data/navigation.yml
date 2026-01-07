@@ -14,11 +14,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "People"
-    url: /people/    
+  # - title: "People"
+  #   url: /people/    
 
-  - title: "Recent News"
-    url: /talks/    
+  # - title: "Recent News"
+  #  url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
