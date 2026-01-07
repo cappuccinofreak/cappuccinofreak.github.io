@@ -1,12 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# Welcome
 
 Terry has been research in the area of agent-based computing and knowledge-based systems and services for the last 30 years, and has published more than [200 peer-reviewed papers](https://www.liverpool.ac.uk/people/terry-payne/research-outputs) in the area. His specific interest is in the use of ontological knowledge for the support of agent-based service discovery and provision and is currently exploring the exploration of dialogue-based negotiation approaches to establish contextually-relevant ontological alignment between interacting agents on the fly. This supports the longer term aim of describing, discovering and utilising capability descriptions that agents offer or exploit when collaborating within open and pervasive environments, such as within smart scientific laboratory settings.
 
